@@ -142,5 +142,5 @@ Experience in:
 ## 📫 Contact
 
 - **GitHub:** [Your GitHub](#)
-- **LinkedIn:** [Your LinkedIn](#)
-- **Email:** [Your Email](#)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/carlo-sismundo-234b0a207/)
+- **Email:** [Your Email](sismundocarlo@gmai.com)
