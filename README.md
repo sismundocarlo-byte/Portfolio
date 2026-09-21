@@ -77,7 +77,8 @@ My goal is to combine my engineering experience with data and AI to solve real-w
 
 **Technologies:** Tableau | SQL | Data Visualization
 
-[View Project](#)
+[Superstore Sales Dashboard](https://public.tableau.com/app/profile/carlo.sismundo/viz/Book1_17899669565310/Dashboard1)
+[Next Project](#)
 
 ---
 
