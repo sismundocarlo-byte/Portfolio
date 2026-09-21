@@ -118,7 +118,7 @@ Currently completing training in:
 - Machine Learning
 - Artificial Intelligence
 
-[View Training Repository](#)
+[View Training Repository](https://github.com/sismundocarlo-byte/Python-for-Data-and-AI)
 
 ---
 
